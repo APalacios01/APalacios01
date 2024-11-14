@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @APalacios01
+- 👀 I’m interested in app and web development.
+- 🌱 I’m currently a Computer Science undergrad learning full-stack development.
+- 💞️ I’m looking to collaborate on projects related to app design and web platforms.
+- 📫 How to reach me: [axelpalacios343@gmail.com](mailto:axelpalacios343@gmail.com)
+- ⚡ Fun fact: I’m bilingual and love exploring new tech tools!
